@@ -1,4 +1,3 @@
-👋 Hi, I’m @LaCasaDePapelToken
-👀 I’m interested in making the world better place.
-🌱 website: https://lacasadepapeltoken.org
-📫 How to reach me: contact@lacasadepapeltoken.org
+https://lacasadepapeltoken.org
+
+BSC Contract: https://bscscan.com/address/0x21bD81ba78593292f88ad778C0b0E3AAC054D3B4#code
